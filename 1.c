@@ -7,5 +7,8 @@ mani
 sutti
 sanu
 satish
+nirmala
+chitti
+buji
 
 
